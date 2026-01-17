@@ -293,7 +293,7 @@ footer.container {
 
 .card-link-active {
   border: 2px solid #fd7e14;
-  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.22);
+  box-shadow: 0 10px 25px rgba(255, 136, 0, 0.22);
 }
 
 .card-logo {
