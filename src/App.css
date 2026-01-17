@@ -93,12 +93,6 @@ nav a:hover,
   text-decoration: none;
   padding: 0.25em 0.4em;
 }
-.categories a:hover,
-a.category-active {
-  color: #fff;
-  background-color: #605e5e;
-  border-radius: 3px;
-}
 
 .session a {
   display: block;
